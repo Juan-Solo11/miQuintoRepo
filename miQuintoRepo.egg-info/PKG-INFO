@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: miQuintoRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/juan-solo11/miquintorepo
+Author: Juan Monroy
+Author-email: juan.monroy22.jml@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
